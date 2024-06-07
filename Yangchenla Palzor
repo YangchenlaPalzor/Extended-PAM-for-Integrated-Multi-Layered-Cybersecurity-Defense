@@ -1,0 +1,35 @@
+With the growing complexity of IT systems and the increase of IAM and cybersecurity tools, effectively tackling privileged account attacks has become increasingly challenging.
+
+ 
+
+Why is Extended PAM Essential Now?
+
+PAM has proven effective in safeguarding enterprises from data breaches and ransomware through principles like vaulting, just-in-time access, just-enough privilege, session monitoring, and privilege elevation and delegation. By minimizing available privileges and granting elevated access with just-in-time approval, PAM capabilities have successfully prevented breaches and limited lateral movement caused by stolen credentials and insider threats. Companies have leveraged PAM to manage access for domain admins and other privileged users.
+
+However, the landscape has drastically evolved since the inception of PAM. Initially, PAM was designed for admins working within the network, primarily accessing server resources in data centers. Today, the privileged account attack surface has expanded due to remote work, hybrid IT environments, and diverse applications and endpoints. The surge in human and machine identities, endpoints, infrastructure, and applications complicate security management. Decentralized application development increase's identity proliferation and challenges security teams to manage organizational risks, often exacerbated by shadow IT bypassing security protocols for agility. Increased automation and interconnectivity further elevate the risk of data exfiltration and lateral movement.
+
+To meet compliance standards and protect against costly data breaches and ransomware attacks, comprehensive identity and privileged access controls are crucial across all these scenarios. Leading analysts acknowledge this shift and have broadened the definition of PAM to encompass new use cases such as DevOps and CIEM capabilities.
+
+ 
+
+Prevalent Issues with Current Security Solutions
+
+The use of multiple vendors results in numerous interfaces, identity forests, limited integrations, and fragmented reporting. This fragmented approach forces users to switch between different screens, wasting time and increasing the likelihood of human error. Siloed tools fail to account for dependencies between IT systems and user behavior, leading to misaligned policies and risk models. Consequently, measuring risk and tracking progress becomes nearly impossible.
+
+These disjointed tools fail to provide an accurate assessment of your risk, potentially overlooking critical gaps in your privileged access strategy. Without consistent and accurate data, executive teams struggle to fully understand or appreciate the scope of privilege security.
+
+Such conditions are untenable and do not offer the insights or capabilities required to take immediate and effective action against cyberattacks.
+
+In such time of change advocating for PAM capabilities that address both traditional and emerging use cases through a unified interface is required. This comprehensive approach is what we call Extended PAM.
+
+ 
+
+The Power of Extended PAM
+
+Extended PAM enables comprehensive Identity and Privileged Access Management across the entire attack surface. By redefining PAM, it treats all users as privileged users and addresses the complexities of modern IT environments. It ensures scalability by using identity as the cornerstone for authentication and implementing policy-based authorization controls to adhere to zero trust and least privilege principles.
+
+ 
+
+Conclusion
+
+Extended PAM offers a unified approach to managing and securing privileged access across the entire attack surface. By integrating comprehensive identity management and advanced authorization controls, it enables organizations to implement robust, multi-layered defenses. This approach enhances visibility, prevents credential theft, and limits privilege escalation, ensuring a stronger, more resilient cybersecurity posture.
